@@ -7,6 +7,8 @@
   <groupId>com.jms.tech</groupId>
   <artifactId>jmsth20</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+
   
 
   <name>jmsth20</name>
